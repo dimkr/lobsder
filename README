@@ -1,0 +1,23 @@
+ _       _             _
+| | ___ | |__  ___  __| | ___ _ __
+| |/ _ \| '_ \/ __|/ _` |/ _ \ '__|
+| | (_) | |_) \__ \ (_| |  __/ |
+|_|\___/|_.__/|___/\__,_|\___|_|
+
+Overview
+========
+
+Lobsder is a thin Linux (https://www.kernel.org/) compatibility layer designed
+to ease the porting of user-mode tools from OpenBSD (http://www.openbsd.org/).
+
+Legal Information
+=================
+
+All original code in Lobsder is licensed under a 2-clause BSD license, see COPYING
+for the license text. For a list of its authors and contributors, see AUTHORS
+and THANKS.
+
+arc4random.c was taken from MirBSD (https://www.mirbsd.org/a4rcontrb.htm); see
+COPYING.arc4random for its license.
+
+The ASCII art logo at the top was made using FIGlet (http://www.figlet.org/).
